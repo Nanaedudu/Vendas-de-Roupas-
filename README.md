@@ -4,3 +4,4 @@
     
 # ETL 
 00. [Criação do Banco](./ETL/00-CriacaodoBanco.SQL)
+00. [Criação Schema](./ETL/01-CriacaoSchema.SQL)
